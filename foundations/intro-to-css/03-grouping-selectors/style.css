@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.blk {
+    background-color: rgba(0, 0, 0, 1.0);
+    color: rgb(255, 255, 255);
+}
+
+.ylw {
+    background-color: yellow;
+}
+
+.ylw,
+.blk {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
